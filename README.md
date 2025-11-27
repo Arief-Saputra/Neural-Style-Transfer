@@ -33,7 +33,7 @@ Optimasi dilakukan menggunakan **L-BFGS**, yang cepat dan stabil.
 
 Hasil akhir penggabungan konten + style:
 
-![Result](result_stylized.png)
+![Result](style_tranfer_output.png)
 
 ---
 
