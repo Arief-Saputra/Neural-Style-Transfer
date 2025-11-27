@@ -1,4 +1,3 @@
-# Neural-Style-Transfer
 # 🎨 Neural Style Transfer (NST) with L-BFGS — VGG19
 
 This repository contains an implementation of **Neural Style Transfer (NST)** using the **L-BFGS optimizer** and the pretrained **VGG19** convolutional neural network.
