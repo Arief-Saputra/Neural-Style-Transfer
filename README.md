@@ -32,7 +32,7 @@ Optimasi dilakukan menggunakan **L-BFGS**, yang cepat dan stabil.
 
 Hasil akhir penggabungan konten + style:
 
-![Result](style_tranfer_output.png)
+![Result](style_transfer_output.png)
 
 ---
 
@@ -76,7 +76,7 @@ STYLE_PATH   = "/content/drive/.../style_night_watch.jpg"
 ├── README.md
 ├── content_raja_ampat.jpg
 ├── style_night_watch.jpg
-├── style_tranfer_output.png
+├── style_transfer_output.png
 ```
 
 ---
