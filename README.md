@@ -85,3 +85,8 @@ STYLE_PATH   = "/content/drive/.../style_night_watch.jpg"
 - Gatys et al., *A Neural Algorithm of Artistic Style*, 2015  
 - TensorFlow VGG19
 
+---
+
+## 📝 License
+Released under MIT License.
+
